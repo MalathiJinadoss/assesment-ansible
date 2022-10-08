@@ -1,5 +1,5 @@
 # assesment-ansible
-ansibleplaybook for highly available wordpress site
+
 Ansible role that installs and configures WordPress with Apache2.
 
 Features include:
