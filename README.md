@@ -59,4 +59,3 @@ Example playbook
 Testing
 $ gh repo clone MalathiJinadoss/assesment-ansible
 $ cd ansible-role-wordpress
-$ vagrant up
